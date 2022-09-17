@@ -4,6 +4,8 @@
 # Python MLOps Cookbook 
 This is an example of a Containerized Flask Application the can be the core ingredient in many "recipes", i.e. deploy targets..
 
+### Verified Deploy with AWS App Runner
+
 ![mlops-color](https://user-images.githubusercontent.com/58792/121539559-c6787e80-c9d3-11eb-9f48-5d25924fad25.png)
 * [Read Practical MLOps Online](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
 * [Purchase Practical MLOps](https://www.amazon.com/Practical-MLOps-Operationalizing-Machine-Learning/dp/1098103017)
@@ -26,7 +28,7 @@ Feel free to test my ML project:  `docker pull ghcr.io/noahgift/python-mlops-coo
 * `Dockerfile`:  [View Dockerfile](https://github.com/noahgift/Python-MLOps-Cookbook/blob/main/Dockerfile)
 *  `Baseball_Predictions_Export_Model.ipynb`:  [Baseball_Predictions_Export_Model.ipynb](https://github.com/noahgift/Python-MLOps-Cookbook/blob/main/Baseball_Predictions_Export_Model.ipynb)
 
-![Course2-Duke-Flask-Containerized](https://user-images.githubusercontent.com/58792/110816231-289cd880-8259-11eb-8ab7-45c4ef5190ad.png)
+![Course1-Duke-Flask-Containerized](https://user-images.githubusercontent.com/58792/110816231-289cd880-8259-11eb-8ab7-45c4ef5190ad.png)
 
 ### CLI Tools
 
